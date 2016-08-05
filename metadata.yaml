@@ -1,0 +1,32 @@
+_repo: Abbotsford-and-Newstead-Abbey_7948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: Cover -- Contents.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Newstead Abbey'
+- !lcc 'DA'
+- !lcsh 'Abbotsford (Scotland)'
+- GITenberg
+tableOfContents: Abbotsford -- Newstead Abbey -- Arrival at the Abbey -- The Abbey
+  garden -- Plough Monday -- Old servants -- Superstitions of the Abbey -- Annesley
+  Hall -- The lake -- Robin Hood and Sherwood Forest -- The rook cell -- The little
+  white lady.
+title: Abbotsford and Newstead Abbey
+url: http://www.gutenberg.org/ebooks/7948
